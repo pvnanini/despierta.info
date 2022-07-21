@@ -1,0 +1,53 @@
+a:24:{s:9:"from_name";s:21:"Despierta.INFO - Foro";s:10:"from_email";s:24:"adminamor@despierta.info";s:12:"admin_emails";s:24:"adminamor@despierta.info";s:16:"new_topic_notify";i:1;s:16:"new_reply_notify";i:0;s:26:"confirmation_email_subject";s:51:"Por favor, confirma la suscripción a [entry_title]";s:26:"confirmation_email_message";s:304:"¡Hola [member_name]!<br>
+ Gracias por darte de alta.<br>
+ Esto es una respuesta automática.<br>
+ Estamos encantados de informarte que después de tu confirmación recibirás actualizaciones de - [entry_title].<br>
+ Por favor haz clic en el siguiente enlace para completar este paso.<br>
+ [confirm_link]";s:36:"new_topic_notification_email_subject";s:12:"Nuevo debate";s:36:"new_topic_notification_email_message";s:291:"¡Hola [member_name]!<br>
+ Hay una nueva respuesta en un foro al que estás suscrito - [forum].
+ <br><br>
+ <strong>[topic_title]</strong>
+ <blockquote>
+ [topic_desc]
+ </blockquote>
+ <br><hr>
+ Si quieres darte de baja de este debate, por favor usa el siguiente enlace.<br>
+ [unsubscribe_link]";s:35:"new_post_notification_email_subject";s:15:"Nueva respuesta";s:35:"new_post_notification_email_message";s:296:"¡Hola [member_name]!<br>
+ Hay una nueva  respuesta en un debate al que estás suscrito  - [topic].
+ <br><br>
+ <strong>[reply_title]</strong>
+ <blockquote >
+ [reply_desc]
+ </blockquote>
+ <br><hr>
+ Si quieres darte de baja de este debate, por favor usa el siguiente enlace.<br>
+ [unsubscribe_link]";s:20:"report_email_subject";s:33:"Informe de publicaciones del Foro";s:20:"report_email_message";s:111:"<strong>Detalles del informe:</strong>
+ Informador: [reporter], <br>
+ Mensaje: [message],<br>
+ <br>
+ [post_url]";s:37:"overwrite_new_user_notification_admin";i:1;s:44:"wp_new_user_notification_email_admin_subject";s:35:"[blogname] Nuevo usuario registrado";s:44:"wp_new_user_notification_email_admin_message";s:117:"Nuevo usuario registrado en tu sitio [blogname]:
+
+Nombre de usuario: [user_login]
+
+Correo electrónico: [user_email]
+";s:31:"overwrite_new_user_notification";i:1;s:38:"wp_new_user_notification_email_subject";s:61:"[blogname] Tu información de nombre de usuario y contraseña";s:38:"wp_new_user_notification_email_message";s:119:"Nombre de usuario: [user_login]
+
+Para restablecer la contraseña haz clic en el siguiente enlace:
+
+[set_password_url]
+
+";s:38:"overwrite_reset_password_email_message";i:1;s:28:"reset_password_email_message";s:355:"¡Hola!
+
+ Nos has pedido restablecer tu contraseña para tu cuenta usando la dirección de correo electrónico [user_login].
+
+Si ha sido un error o no has solicitado el restablecimiento de la contraseña, ignora este correo electrónico y no pasará nada.
+
+Para restablecer tu contraseña, visita la siguiente dirección:
+
+[reset_password_url]
+
+¡Gracias!";s:19:"user_mention_notify";i:1;s:26:"user_mention_email_subject";s:48:"Has sido mencionado en una publicación del foro";s:26:"user_mention_email_message";s:164:"Hola [mentioned-user-name]! <br>
+
+ Has sido mencionado en una publicación de "[topic-title]" por [author-user-name].<br/><br/>
+
+ URL de la publicación: [post-url]";}

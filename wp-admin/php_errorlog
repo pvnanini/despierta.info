@@ -1,0 +1,958 @@
+[19-Jun-2022 20:30:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/customer/www/despierta.info/public_html/wp-content/plugins/ultimate-addons-for-beaver-builder-lite/classes/class-uabb-cloud-templates.php on line 160
+[19-Jun-2022 20:30:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/customer/www/despierta.info/public_html/wp-content/plugins/ultimate-addons-for-beaver-builder-lite/classes/class-uabb-cloud-templates.php on line 160
+[20-Jun-2022 13:58:22 UTC] Postie [error]: Unable to connect. The server said: IMAP - Could not connect to IMAP server imap.gmail.com on port 993. Array
+(
+    [0] => A0002 NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+)
+
+[20-Jun-2022 14:00:46 UTC] Postie [error]: Unable to connect. The server said: IMAP - Could not connect to IMAP server imap.gmail.com. on port 993. Array
+(
+    [0] => A0002 NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+)
+
+[20-Jun-2022 14:01:47 UTC] Postie [error]: Unable to connect. The server said: Unable to write data to IMAP server imap.gmail.com. on port 993
+[20-Jun-2022 14:07:47 UTC] Postie [error]: Unable to connect. The server said: IMAP - Could not connect to IMAP server imap.gmail.com on port 993. Array
+(
+    [0] => A0002 NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+)
+
+[20-Jun-2022 14:12:25 UTC] Postie [error]: Unable to connect. The server said: IMAP - Could not connect to IMAP server imap.gmail.com on port 993. Array
+(
+    [0] => A0002 NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+)
+
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: doing postie_session_start
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Starting mail fetch
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WordPress datetime: 2022-06-20 11:54:59
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: wp_content_path: /home/customer/www/despierta.info/public_html/wp-content
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: OS: Linux giow11.siteground.us 3.12.18-clouder0 #3 SMP PREEMPT Wed May 25 12:13:20 EEST 2022 x86_64
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP version: 7.4.30
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP error_log: php_errorlog
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP log_errors: On
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP get_temp_dir: /tmp/
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP disable_functions: 
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP cURL version: 7.66.0
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: PHP Multibyte String support: yes
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: MySQL Version: 5.7.32
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: MySQL client: mysqli
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Query: SHOW FULL COLUMNS FROM `uak_posts`
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: uak_posts charset: utf8mb4
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WordPress Version: 6.0
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WordPress Singlesite
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_TEMP_DIR: (none)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_HOME: (none)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: home_url(): https://despierta.info
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_SITEURL: (none)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: site_url(): https://despierta.info
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_DEBUG: Off
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_DEBUG_DISPLAY: On
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_DEBUG_LOG: Off
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_MAX_MEMORY_LIMIT: 256M (default)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_MEMORY_LIMIT: 40M
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: imagick version: 
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: gd version: 7.4.30
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: image editor not supported: WP_Image_Editor_Imagick
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: image editor supported: WP_Image_Editor_GD
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/jpeg
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/png
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/gif
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Registered image sizes
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Array
+(
+    [0] => thumbnail
+    [1] => medium
+    [2] => medium_large
+    [3] => large
+    [4] => 1536x1536
+    [5] => 2048x2048
+    [6] => ocean-thumb-m
+    [7] => ocean-thumb-ml
+    [8] => ocean-thumb-l
+    [9] => woocommerce_thumbnail
+    [10] => woocommerce_single
+    [11] => woocommerce_gallery_thumbnail
+    [12] => shop_catalog
+    [13] => shop_single
+    [14] => shop_thumbnail
+)
+
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for image_downsize
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for wp_handle_upload
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for wp_get_attachment_thumb_file
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Registered filters for wp_handle_upload_prefilter
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for wp_handle_sideload_prefilter
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for pre_move_uploaded_file
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: image memory limit: 768M
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: DISABLE_WP_CRON: Off
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: ALTERNATE_WP_CRON: Off
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WP_CRON_LOCK_TIMEOUT: 60
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: iconv: present
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Active plugins
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      buddypress/bp-loader.php => 10.3.0
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      echo-knowledge-base/echo-knowledge-base.php => 9.10.0
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      elementor/elementor.php => 3.6.6
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      fast-indexing-api/instant-indexing.php => 1.1.14
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      ocean-extra/ocean-extra.php => 2.0.2
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      postie/postie.php => 1.9.60
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      pro-elements/pro-elements.php => 3.6.4
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      sg-cachepress/sg-cachepress.php => 7.1.2
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      sg-security/sg-security.php => 1.2.8
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      woocommerce/woocommerce.php => 6.6.0
+[20-Jun-2022 14:54:59 UTC] Postie [debug]:      wpforo/wpforo.php => 1.9.9.1
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Postie is in /home/customer/www/despierta.info/public_html/wp-content/plugins/postie/
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Postie Version: 1.9.60
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: POSTIE_DEBUG: On
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_filter_email
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_filter_email2
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_filter_email3
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_author
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_post_before
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_post_after
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_file_added
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_gallery
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_comment_before
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_comment_after
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_category_default
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Registered filters for postie_log_debug
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Registered filters for postie_log_error
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_session_start
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_session_end
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_preconnect
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_post_pre
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_email_reject_recipients
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_email_notify_recipients
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_email_reject_subject
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_email_notify_subject
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_email_reject_body
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_place_media
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_place_media_before
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_place_media_after
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_raw
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_bare_link
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_category
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_file_added_pre
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: No registered filters for postie_include_attachment
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: default_charset: UTF-8
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: DB_CHARSET: utf8
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: DB_COLLATE: database default
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: WordPress encoding: UTF-8
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: memoria al inicio del procesamiento del correo electrónico:134643504
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: postie configuration
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Array
+(
+    [add_meta] => no
+    [admin_username] => euge
+    [allow_html_in_body] => 1
+    [allow_html_in_subject] => 1
+    [allow_subject_in_mail] => 1
+    [audiotemplate] => <a href="{FILELINK}">{FILENAME}</a>
+    [audiotypes] => Array
+        (
+            [0] => m4a
+            [1] => mp3
+            [2] => ogg
+            [3] => wav
+            [4] => mpeg
+        )
+
+    [authorized_addresses] => Array
+        (
+        )
+
+    [banned_files_list] => Array
+        (
+        )
+
+    [confirmation_email] => 
+    [convertnewline] => 0
+    [converturls] => 1
+    [custom_image_field] => 0
+    [default_post_category] => 46
+    [category_match] => 1
+    [default_post_tags] => Array
+        (
+        )
+
+    [default_title] => Live From The Field
+    [delete_mail_after_processing] => 1
+    [drop_signature] => 1
+    [filternewlines] => 1
+    [forward_rejected_mail] => 1
+    [icon_set] => silver
+    [icon_size] => 32
+    [auto_gallery] => 1
+    [image_new_window] => 
+    [image_placeholder] => #img%#
+    [images_append] => 1
+    [imagetemplate] => <a href="{PAGELINK}"><img src="{MEDIUM}" alt="{CAPTION}" width="{MEDIUMWIDTH}" height="{MEDIUMHEIGHT}" class="alignnone size-medium wp-image-{ID}" /></a>
+    [imagetemplates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [no_wrappers] => <a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a>
+            [wordpress_default] => <a href="{PAGELINK}"><img src="{MEDIUM}" alt="{CAPTION}" width="{MEDIUMWIDTH}" height="{MEDIUMHEIGHT}" class="alignnone size-medium wp-image-{ID}" /></a>
+            [thumbnail_left] => <div style="float:left;margin-right:10px;"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a></div>
+            [thumbnail_right] => <div style="float:right;margin-left:10px;"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a></div>
+            [robert_felty] => <div style="margin-right:10px;background:black;color:white;padding:2px; width:{MEDIUMWIDTH};float:left"><a href="{IMAGE}"><img src="{MEDIUM}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a><div style="padding:.2em;text-align:left">{CAPTION}</div></div>
+            [postie_legacy] => <div class="postie-image-div"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{FILENAME}" title="{FILENAME}" style="border:none" class="postie-image" /></a></div>
+            [custom] => 
+        )
+
+    [input_protocol] => imap-ssl
+    [input_connection] => sockets
+    [interval] => twiceperhour
+    [mail_server] => giow11.siteground.us
+    [mail_server_port] => 993
+    [mail_userid] => difusion@despierta.info
+    [maxemails] => 0
+    [message_start] => 
+    [message_end] => 
+    [message_encoding] => UTF-8
+    [message_dequote] => 1
+    [post_status] => publish
+    [prefer_text_type] => html
+    [return_to_sender] => 0
+    [role_access] => Array
+        (
+            [editor] => 1
+            [author] => 1
+        )
+
+    [selected_audiotemplate] => simple_link
+    [selected_imagetemplate] => wordpress_default
+    [selected_video1template] => vshortcode
+    [selected_video2template] => simple_link
+    [shortcode] => 
+    [sig_pattern_list] => Array
+        (
+            [0] => --\s?[\r\n]?
+            [1] => --\s
+            [2] => --
+            [3] => ---
+        )
+
+    [smtp] => Array
+        (
+        )
+
+    [start_image_count_at_zero] => 0
+    [supported_file_types] => Array
+        (
+            [0] => application
+        )
+
+    [turn_authorization_off] => 0
+    [time_offset] => -3
+    [video1template] => [video width="568" height="320" {FILETYPE}="{FILELINK}"][/video]
+    [video1types] => Array
+        (
+            [0] => mp4
+            [1] => mpeg4
+            [2] => 3gp
+            [3] => 3gpp
+            [4] => 3gpp2
+            [5] => 3gp2
+            [6] => mov
+            [7] => mpeg
+            [8] => quicktime
+        )
+
+    [video2template] => <a href="{FILELINK}">{FILENAME}</a>
+    [video2types] => Array
+        (
+            [0] => x-flv
+        )
+
+    [video1templates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [small] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="128"height="96"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="128" height="96"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="128" height="110" scale="tofit"></embed> </object>
+            [medium] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320"height="240"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="320" height="240"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="320" height="260" scale="tofit"></embed> </object>
+            [medium_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="270"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="270"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="290" scale="tofit"></embed> </object>
+            [large] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="380" scale="tofit"></embed> </object>
+            [large_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="640"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="640" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="640" height="380" scale="tofit"></embed> </object>
+            [vshortcode] => [video width="568" height="320" {FILETYPE}="{FILELINK}"][/video]
+            [custom] => 
+        )
+
+    [video2templates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [small] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="128"height="96"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="128" height="96"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="128" height="110"></embed> </object>
+            [medium] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320"height="240"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="320" height="240"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="320" height="260"></embed> </object>
+            [medium_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="270"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="270"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="290"></embed> </object>
+            [large] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="380"></embed> </object>
+            [large_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="640"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="640" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="640" height="380"></embed> </object>
+            [flv_embed] => [flv:{FILELINK} 480 270]
+            [custom] => 
+        )
+
+    [wrap_pre] => no
+    [featured_image] => 1
+    [include_featured_image] => 1
+    [email_tls] => 
+    [post_format] => standard
+    [post_type] => post
+    [generaltemplates] => Array
+        (
+            [postie_default] => <a href="{FILELINK}">{ICON} {FILENAME}</a>
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [custom] => 
+        )
+
+    [generaltemplate] => <a href="{FILELINK}">{ICON} {FILENAME}</a>
+    [selected_generaltemplate] => postie_default
+    [generate_thumbnails] => 1
+    [reply_as_comment] => 1
+    [force_user_login] => 0
+    [auto_gallery_link] => Default
+    [ignore_mail_state] => 
+    [strip_reply] => 1
+    [postie_log_error] => 1
+    [postie_log_debug] => 0
+    [category_colon] => 1
+    [category_dash] => 1
+    [category_bracket] => 1
+    [prefer_text_convert] => 1
+    [category_remove] => 1
+    [ignore_email_date] => 0
+    [use_time_offset] => 0
+    [postie_log_error_notify] => (All Admins)
+    [image_resize] => 1
+    [duplicate_comments] => 0
+    [legacy_commands] => 1
+)
+
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: fetch_mail: Connecting to giow11.siteground.us:993 (imap-ssl)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: pConnection: mailbox: INBOX
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Connecting via Socket
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Socket: tls://giow11.siteground.us:993
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Socket error: 0 -  (Resource id #2332)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Socket: IMAP
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket write: A0001 CAPABILITY
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket read (3) :* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY STATUS=SIZE SAVEDATE LITERAL+ COMPRESS=DEFLATE QUOTA AUTH=PLAIN AUTH=LOGIN] Dovecot ready.
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket write: (login) LOGIN/APOP/PASS
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket read (2) :* CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY STATUS=SIZE SAVEDATE LITERAL+ COMPRESS=DEFLATE QUOTA
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket write: A0003 SELECT "INBOX"
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket read (7) :* FLAGS (\Answered \Flagged \Deleted \Seen \Draft)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket write: A0004 STATUS "INBOX" (MESSAGES)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket read (2) :* STATUS INBOX (MESSAGES 0)
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: fetch_mail: Hay 0 mensajes para procesar
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Array
+(
+)
+
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: fetch_mail: closing connection
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket write: A0005 LOGOUT
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: socket read (2) :* BYE Logging out
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: Mail fetch complete, 0 emails
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: doing postie_session_end
+[20-Jun-2022 14:54:59 UTC] Postie [debug]: memory at end of email processing: 134669240
+[20-Jun-2022 22:26:44 UTC] Error Table 'dbxi8efujgeugu.uak_wpmailsmtp_tasks_meta' doesn't exist de la base de datos de WordPress para la consulta SHOW FULL COLUMNS FROM `uak_wpmailsmtp_tasks_meta` realizada por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WPMailSMTP\Core->get_tasks, WPMailSMTP\Tasks\Tasks->init, WPMailSMTP\Tasks\Reports\SummaryEmailTask->init, WPMailSMTP\Tasks\Task->register, WPMailSMTP\Tasks\Meta->add, WPMailSMTP\Tasks\Meta->add_to_db
+[21-Jun-2022 00:16:51 UTC] PHP Warning:  file_get_contents(/home/customer/www/despierta.info/public_html/wp-content/plugins/ocean-extra/ocean-extra.php): failed to open stream: No such file or directory in /home/customer/www/despierta.info/public_html/wp-includes/functions.php on line 6633
+[21-Jun-2022 03:07:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:10:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:11:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:13:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:13:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:13:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:13:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:13:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:14:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[21-Jun-2022 03:14:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wp_print_media_templates' not found or invalid function name in /home/customer/www/despierta.info/public_html/wp-includes/class-wp-hook.php on line 307
+[23-Jun-2022 13:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 13:17:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[23-Jun-2022 13:17:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[23-Jun-2022 13:17:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 13:27:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 13:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[23-Jun-2022 13:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[23-Jun-2022 13:28:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 13:31:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 13:43:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 13:44:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/views-validate.php on line 392
+[23-Jun-2022 13:44:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 13:46:11 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/includes/class-strong-testimonials-render.php on line 719
+[23-Jun-2022 13:46:15 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/includes/class-strong-testimonials-render.php on line 719
+[23-Jun-2022 13:48:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 13:48:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 13:54:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[23-Jun-2022 14:13:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 14:18:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/views-validate.php on line 392
+[23-Jun-2022 14:18:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[23-Jun-2022 14:19:03 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/includes/class-strong-testimonials-render.php on line 719
+[23-Jun-2022 14:19:08 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/includes/class-strong-testimonials-render.php on line 719
+[23-Jun-2022 14:19:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[25-Jun-2022 22:53:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[25-Jun-2022 22:53:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 104
+[25-Jun-2022 22:53:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[25-Jun-2022 22:53:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[26-Jun-2022 03:07:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(/home/customer/www/despierta.info/public_html/wp-content/cache/sgo-cache/): failed to open dir: No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 498
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(/home/customer/www/despierta.info/public_html/wp-content/cache/sgo-cache/): failed to open dir: No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 498
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(/home/customer/www/despierta.info/public_html/wp-content/cache/sgo-cache/): failed to open dir: No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 498
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  scandir(/home/customer/www/despierta.info/public_html/wp-content/cache/sgo-cache/): failed to open dir: No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 498
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  scandir(/home/customer/www/despierta.info/public_html/wp-content/cache/sgo-cache/): failed to open dir: No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, bool given in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 496
+[26-Jun-2022 15:01:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/sg-cachepress/core/File_Cacher/File_Cacher.php on line 498
+[26-Jun-2022 20:42:51 UTC] Error Table 'dbxi8efujgeugu.uak_rtcl_sessions' doesn't exist de la base de datos de WordPress para la consulta SELECT session_value FROM uak_rtcl_sessions WHERE session_key = '1' realizada por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Rtcl->init_hooks, Rtcl->load_session, Rtcl\Controllers\SessionHandler->init, Rtcl\Controllers\SessionHandler->get_session_data, Rtcl\Controllers\SessionHandler->get_session
+[26-Jun-2022 23:03:13 UTC] Error Unknown column '0' in 'field list' de la base de datos de WordPress para la consulta UPDATE `uak_rank_math_internal_meta` SET `internal_link_count` = '0', `external_link_count` = '0', `0` = '' WHERE `object_id` = 561 realizada por do_action('wp_ajax_rtcl_delete_temp_listing'), WP_Hook->do_action, WP_Hook->apply_filters, Rtcl\Controllers\Ajax\ListingAdminAjax->delete_temp_listing, Rtcl\Helpers\Functions::delete_post, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Links\Links->delete_post, RankMath\Links\Storage->update_link_counts, RankMath\Links\Storage->save_meta_data
+[26-Jun-2022 23:10:01 UTC] Error Unknown column '0' in 'field list' de la base de datos de WordPress para la consulta UPDATE `uak_rank_math_internal_meta` SET `internal_link_count` = '0', `external_link_count` = '0', `0` = '' WHERE `object_id` = 565 realizada por do_action('wp_ajax_rtcl_delete_temp_listing'), WP_Hook->do_action, WP_Hook->apply_filters, Rtcl\Controllers\Ajax\ListingAdminAjax->delete_temp_listing, Rtcl\Helpers\Functions::delete_post, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Links\Links->delete_post, RankMath\Links\Storage->update_link_counts, RankMath\Links\Storage->save_meta_data
+[26-Jun-2022 23:11:50 UTC] Error Unknown column '0' in 'field list' de la base de datos de WordPress para la consulta UPDATE `uak_rank_math_internal_meta` SET `internal_link_count` = '0', `external_link_count` = '0', `0` = '' WHERE `object_id` = 567 realizada por do_action('wp_ajax_rtcl_delete_temp_listing'), WP_Hook->do_action, WP_Hook->apply_filters, Rtcl\Controllers\Ajax\ListingAdminAjax->delete_temp_listing, Rtcl\Helpers\Functions::delete_post, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Links\Links->delete_post, RankMath\Links\Storage->update_link_counts, RankMath\Links\Storage->save_meta_data
+[26-Jun-2022 23:24:10 UTC] Error Unknown column '0' in 'field list' de la base de datos de WordPress para la consulta UPDATE `uak_rank_math_internal_meta` SET `internal_link_count` = '0', `external_link_count` = '0', `0` = '' WHERE `object_id` = 570 realizada por do_action('wp_ajax_rtcl_delete_temp_listing'), WP_Hook->do_action, WP_Hook->apply_filters, Rtcl\Controllers\Ajax\ListingAdminAjax->delete_temp_listing, Rtcl\Helpers\Functions::delete_post, wp_delete_post, do_action('delete_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Links\Links->delete_post, RankMath\Links\Storage->update_link_counts, RankMath\Links\Storage->save_meta_data
+[28-Jun-2022 07:38:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[28-Jun-2022 07:39:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:41:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:42:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:47:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:58:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:59:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 07:59:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 104
+[28-Jun-2022 07:59:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/class-strong-testimonials-settings-form.php on line 140
+[28-Jun-2022 07:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 08:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[28-Jun-2022 08:04:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-helper.php on line 1748
+[28-Jun-2022 08:06:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[28-Jun-2022 08:06:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/settings/partials/form.php on line 31
+[29-Jun-2022 06:14:50 UTC] Error Table 'dbxi8efujgeugu.uak_rank_math_analytics_gsc' doesn't exist de la base de datos de WordPress para la consulta SELECT COUNT(DISTINCT(created)) AS days FROM uak_rank_math_analytics_gsc LIMIT 0, 1 realizada por require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[29-Jun-2022 06:14:50 UTC] Error Table 'dbxi8efujgeugu.uak_rank_math_analytics_gsc' doesn't exist de la base de datos de WordPress para la consulta SELECT COUNT(id) FROM uak_rank_math_analytics_gsc LIMIT 0, 1 realizada por require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[29-Jun-2022 07:46:07 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-updater.php on line 557
+[29-Jun-2022 07:52:34 UTC] PHP Warning:  Division by zero in /home/customer/www/despierta.info/public_html/wp-content/plugins/strong-testimonials/admin/class-strong-testimonials-updater.php on line 1382
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[06-Jul-2022 21:13:45 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[07-Jul-2022 21:56:48 UTC] Error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 de la base de datos de WordPress para la consulta ALTER TABLE uak_bpbm_threadsmeta ADD  `` (``) realizada por activate_plugin, do_action('activate_bp-better-messages/bp-better-messages.php'), WP_Hook->do_action, WP_Hook->apply_filters, bp_better_messages_activation, do_action('bp_better_messages_activation'), WP_Hook->do_action, WP_Hook->apply_filters, bpbp_install_tables, dbDelta
+[08-Jul-2022 12:55:54 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 12:56:04 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 12:56:45 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 12:56:56 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 12:57:06 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 12:57:15 UTC] PHP Warning:  preg_match(): Compilation failed: quantifier does not follow a repeatable item at offset 1 in /home/customer/www/despierta.info/public_html/wp-content/plugins/wpforo/wpf-includes/functions.php on line 2281
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 13:36:33 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 21:10:02 UTC] PHP Fatal error:  Cannot redeclare yzc_add_show_everything_filter_actions() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:48) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 4
+[08-Jul-2022 21:10:13 UTC] PHP Fatal error:  Cannot redeclare yzc_add_show_everything_filter_actions() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:48) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 4
+[08-Jul-2022 21:10:16 UTC] PHP Fatal error:  Cannot redeclare yzc_add_show_everything_filter_actions() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:48) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 4
+[08-Jul-2022 21:10:35 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:10:44 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:10:47 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:10:49 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:10:50 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:10:52 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:11:04 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:11:16 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 21:12:20 UTC] PHP Fatal error:  Cannot redeclare yz_enable_wpforo_activity_posts() (previously declared in /home/customer/www/despierta.info/public_html/wp-content/plugins/bp-custom.php:63) in /home/customer/www/despierta.info/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(484) : eval()'d code on line 19
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 297
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'visibility' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 287
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 291
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 293
+[08-Jul-2022 22:07:09 UTC] PHP Warning:  Illegal string offset 'icon' in /home/customer/www/despierta.info/public_html/wp-content/plugins/youzify/includes/admin/core/class-youzify-admin-ajax.php on line 294
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: doing postie_session_start
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Starting mail fetch
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WordPress datetime: 2022-07-12 13:38:35
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: wp_content_path: /home/customer/www/despierta.info/public_html/wp-content
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: OS: Linux giow11.siteground.us 3.12.18-clouder0 #3 SMP PREEMPT Wed May 25 12:13:20 EEST 2022 x86_64
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP version: 7.4.30
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP error_log: php_errorlog
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP log_errors: On
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP get_temp_dir: /tmp/
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP disable_functions: 
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP cURL version: 7.66.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: PHP Multibyte String support: yes
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: MySQL Version: 5.7.32
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: MySQL client: mysqli
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Query: SHOW FULL COLUMNS FROM `uak_posts`
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: uak_posts charset: utf8mb4
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WordPress Version: 6.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WordPress Singlesite
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_TEMP_DIR: (none)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_HOME: (none)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: home_url(): https://despierta.info
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_SITEURL: (none)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: site_url(): https://despierta.info
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_DEBUG: Off
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_DEBUG_DISPLAY: null
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_DEBUG_LOG: On
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_MAX_MEMORY_LIMIT: 256M (default)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_MEMORY_LIMIT: 40M
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: imagick version: 
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: gd version: 7.4.30
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: image editor not supported: WP_Image_Editor_Imagick
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: image editor supported: WP_Image_Editor_GD
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/jpeg
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/png
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_Image_Editor_GD supports: image/gif
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Registered image sizes
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Array
+(
+    [0] => thumbnail
+    [1] => medium
+    [2] => medium_large
+    [3] => large
+    [4] => 1536x1536
+    [5] => 2048x2048
+    [6] => rt_media_thumbnail
+    [7] => rt_media_activity_image
+    [8] => rt_media_single_image
+    [9] => rt_media_featured_image
+    [10] => ocean-thumb-m
+    [11] => ocean-thumb-ml
+    [12] => ocean-thumb-l
+    [13] => widget-thumbnail
+    [14] => rtcl-gallery
+    [15] => rtcl-thumbnail
+    [16] => rtcl-gallery-thumbnail
+    [17] => woocommerce_thumbnail
+    [18] => woocommerce_single
+    [19] => woocommerce_gallery_thumbnail
+    [20] => shop_catalog
+    [21] => shop_single
+    [22] => shop_thumbnail
+)
+
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for image_downsize
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Registered filters for wp_handle_upload
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for wp_get_attachment_thumb_file
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Registered filters for wp_handle_upload_prefilter
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for wp_handle_sideload_prefilter
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for pre_move_uploaded_file
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: image memory limit: 768M
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: DISABLE_WP_CRON: Off
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: ALTERNATE_WP_CRON: Off
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WP_CRON_LOCK_TIMEOUT: 60
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: iconv: present
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Active plugins
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      akismet/akismet.php => 4.2.5
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      bp-better-messages/bp-better-messages.php => 1.9.10.52
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      buddypress-followers-master/loader.php => 1.3-alpha
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      buddypress-media/index.php => 4.6.12
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      buddypress-members-only/buddypress-members-only.php => 3.2.3
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      buddypress/bp-loader.php => 10.3.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      classified-listing/classified-listing.php => 2.2.10
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      code-snippets/code-snippets.php => 3.1.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      creative-addons-for-elementor/creative-addons-for-elementor.php => 1.4.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      echo-knowledge-base/echo-knowledge-base.php => 9.11.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      elementor/elementor.php => 3.6.7
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      events-manager/events-manager.php => 5.12.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      fast-indexing-api/instant-indexing.php => 1.1.16
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      mainwp-child/mainwp-child.php => 4.2.3
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      ocean-extra/ocean-extra.php => 2.0.2
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      ocean-social-sharing/ocean-social-sharing.php => 2.0.2
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      postie/postie.php => 1.9.61
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      pro-elements/pro-elements.php => 3.6.4
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      seo-by-rank-math-pro/rank-math-pro.php => 3.0.15.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      seo-by-rank-math/rank-math.php => 1.0.92.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      sg-cachepress/sg-cachepress.php => 7.1.5
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      sg-security/sg-security.php => 1.2.9
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      strong-testimonials/strong-testimonials.php => 2.51.9
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      transcoder/rt-transcoder.php => 1.3.4
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      user-menus/user-menus.php => 1.2.9
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      woocommerce/woocommerce.php => 6.6.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-activity-log-for-woocommerce/wsal-woocommerce.php => 1.4.4
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-cloudflare-page-cache/wp-cloudflare-super-page-cache.php => 4.6.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-fullcalendar/wp-fullcalendar.php => 1.4.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-mail-smtp/wp_mail_smtp.php => 3.4.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-security-audit-log/wp-security-audit-log.php => 4.4.2.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wp-user-frontend/wpuf.php => 3.5.28
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wpforo/wpforo.php => 1.9.9.1
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      wptelegram/wptelegram.php => 3.1.9
+[12-Jul-2022 16:38:35 UTC] Postie [debug]:      youzify/youzify.php => 1.2.0
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Postie is in /home/customer/www/despierta.info/public_html/wp-content/plugins/postie/
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Postie Version: 1.9.61
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: POSTIE_DEBUG: On
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_filter_email
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_filter_email2
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_filter_email3
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_author
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_post_before
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_post_after
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_file_added
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_gallery
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_comment_before
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_comment_after
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_category_default
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Registered filters for postie_log_debug
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Registered filters for postie_log_error
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_session_start
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_session_end
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_preconnect
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_post_pre
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_email_reject_recipients
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_email_notify_recipients
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_email_reject_subject
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_email_notify_subject
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_email_reject_body
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_place_media
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_place_media_before
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_place_media_after
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_raw
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_bare_link
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_category
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_file_added_pre
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: No registered filters for postie_include_attachment
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: default_charset: UTF-8
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: DB_CHARSET: utf8
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: DB_COLLATE: database default
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: WordPress encoding: UTF-8
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: memoria al inicio del procesamiento del correo electrónico:218050832
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: postie configuration
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Array
+(
+    [add_meta] => no
+    [admin_username] => invitado
+    [allow_html_in_body] => 1
+    [allow_html_in_subject] => 1
+    [allow_subject_in_mail] => 1
+    [audiotemplate] => <a href="{FILELINK}">{FILENAME}</a>
+    [audiotypes] => Array
+        (
+            [0] => m4a
+            [1] => mp3
+            [2] => ogg
+            [3] => wav
+            [4] => mpeg
+            [5] => opus
+        )
+
+    [authorized_addresses] => Array
+        (
+        )
+
+    [banned_files_list] => Array
+        (
+        )
+
+    [confirmation_email] => 
+    [convertnewline] => 1
+    [converturls] => 1
+    [custom_image_field] => 0
+    [default_post_category] => 46
+    [category_match] => 1
+    [default_post_tags] => Array
+        (
+        )
+
+    [default_title] => Live From The Field
+    [delete_mail_after_processing] => 1
+    [drop_signature] => 1
+    [filternewlines] => 1
+    [forward_rejected_mail] => 1
+    [icon_set] => silver
+    [icon_size] => 32
+    [auto_gallery] => 1
+    [image_new_window] => 
+    [image_placeholder] => #img%#
+    [images_append] => 0
+    [imagetemplate] => <a href="{PAGELINK}"><img src="{MEDIUM}" alt="{CAPTION}" width="{MEDIUMWIDTH}" height="{MEDIUMHEIGHT}" class="alignnone size-medium wp-image-{ID}" /></a>
+    [imagetemplates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [no_wrappers] => <a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a>
+            [wordpress_default] => <a href="{PAGELINK}"><img src="{MEDIUM}" alt="{CAPTION}" width="{MEDIUMWIDTH}" height="{MEDIUMHEIGHT}" class="alignnone size-medium wp-image-{ID}" /></a>
+            [thumbnail_left] => <div style="float:left;margin-right:10px;"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a></div>
+            [thumbnail_right] => <div style="float:right;margin-left:10px;"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a></div>
+            [robert_felty] => <div style="margin-right:10px;background:black;color:white;padding:2px; width:{MEDIUMWIDTH};float:left"><a href="{IMAGE}"><img src="{MEDIUM}" alt="{CAPTION}" title="{CAPTION}" class="attachment" /></a><div style="padding:.2em;text-align:left">{CAPTION}</div></div>
+            [postie_legacy] => <div class="postie-image-div"><a href="{IMAGE}"><img src="{THUMBNAIL}" alt="{FILENAME}" title="{FILENAME}" style="border:none" class="postie-image" /></a></div>
+            [custom] => 
+        )
+
+    [input_protocol] => imap-ssl
+    [input_connection] => sockets
+    [interval] => tenminutes
+    [mail_server] => giow11.siteground.us
+    [mail_server_port] => 993
+    [mail_userid] => difusion@despierta.info
+    [maxemails] => 10
+    [message_start] => 
+    [message_end] => Despierta.INFO - Red Social Almas Libres
+    [message_encoding] => UTF-8
+    [message_dequote] => 1
+    [post_status] => publish
+    [prefer_text_type] => html
+    [return_to_sender] => 0
+    [role_access] => Array
+        (
+            [editor] => 1
+            [author] => 1
+            [contributor] => 1
+        )
+
+    [selected_audiotemplate] => simple_link
+    [selected_imagetemplate] => wordpress_default
+    [selected_video1template] => vshortcode
+    [selected_video2template] => simple_link
+    [shortcode] => 
+    [sig_pattern_list] => Array
+        (
+            [0] => --\s?[\r\n]?
+            [1] => --\s
+            [2] => --
+            [3] => ---
+        )
+
+    [smtp] => Array
+        (
+        )
+
+    [start_image_count_at_zero] => 0
+    [supported_file_types] => Array
+        (
+            [0] => application
+        )
+
+    [turn_authorization_off] => 0
+    [time_offset] => -3
+    [video1template] => [video width="568" height="320" {FILETYPE}="{FILELINK}"][/video]
+    [video1types] => Array
+        (
+            [0] => mp4
+            [1] => mpeg4
+            [2] => 3gp
+            [3] => 3gpp
+            [4] => 3gpp2
+            [5] => 3gp2
+            [6] => mov
+            [7] => mpeg
+            [8] => quicktime
+        )
+
+    [video2template] => <a href="{FILELINK}">{FILENAME}</a>
+    [video2types] => Array
+        (
+            [0] => x-flv
+        )
+
+    [video1templates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [small] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="128"height="96"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="128" height="96"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="128" height="110" scale="tofit"></embed> </object>
+            [medium] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320"height="240"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="320" height="240"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="320" height="260" scale="tofit"></embed> </object>
+            [medium_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="270"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="270"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="290" scale="tofit"></embed> </object>
+            [large] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="380" scale="tofit"></embed> </object>
+            [large_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="640"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="640" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="640" height="380" scale="tofit"></embed> </object>
+            [vshortcode] => [video width="568" height="320" {FILETYPE}="{FILELINK}"][/video]
+            [custom] => 
+        )
+
+    [video2templates] => Array
+        (
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [small] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="128"height="96"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="128" height="96"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="128" height="110"></embed> </object>
+            [medium] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="320"height="240"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="320" height="240"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="320" height="260"></embed> </object>
+            [medium_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="270"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="270"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="290"></embed> </object>
+            [large] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="480"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="480" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="480" height="380"></embed> </object>
+            [large_widescreen] => <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="640"height="360"> <param name="src" value="{FILELINK}" /> <param name="autoplay" value="no" /> <param name="controller" value="true" /> <embed src="{FILELINK}" width="640" height="360"autoplay="no" controller="true" type="video/quicktime" pluginspage="http://www.apple.com/quicktime/download/" width="640" height="380"></embed> </object>
+            [flv_embed] => [flv:{FILELINK} 480 270]
+            [custom] => 
+        )
+
+    [wrap_pre] => no
+    [featured_image] => 1
+    [include_featured_image] => 1
+    [email_tls] => 
+    [post_format] => standard
+    [post_type] => post
+    [generaltemplates] => Array
+        (
+            [postie_default] => <a href="{FILELINK}">{ICON} {FILENAME}</a>
+            [simple_link] => <a href="{FILELINK}">{FILENAME}</a>
+            [custom] => 
+        )
+
+    [generaltemplate] => <a href="{FILELINK}">{ICON} {FILENAME}</a>
+    [selected_generaltemplate] => postie_default
+    [generate_thumbnails] => 1
+    [reply_as_comment] => 1
+    [force_user_login] => 0
+    [auto_gallery_link] => Post
+    [ignore_mail_state] => 
+    [strip_reply] => 1
+    [postie_log_error] => 1
+    [postie_log_debug] => 0
+    [category_colon] => 1
+    [category_dash] => 1
+    [category_bracket] => 1
+    [prefer_text_convert] => 1
+    [category_remove] => 1
+    [ignore_email_date] => 1
+    [use_time_offset] => 1
+    [postie_log_error_notify] => (Nobody)
+    [image_resize] => 1
+    [duplicate_comments] => 0
+    [legacy_commands] => 0
+)
+
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: fetch_mail: Connecting to giow11.siteground.us:993 (imap-ssl)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: pConnection: mailbox: INBOX
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Connecting via Socket
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Socket: tls://giow11.siteground.us:993
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Socket error: 0 -  (Resource id #5088)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Socket: IMAP
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket write: A0001 CAPABILITY
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket read (3) :* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY STATUS=SIZE SAVEDATE LITERAL+ COMPRESS=DEFLATE QUOTA AUTH=PLAIN AUTH=LOGIN] Dovecot ready.
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket write: (login) LOGIN/APOP/PASS
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket read (2) :* CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY STATUS=SIZE SAVEDATE LITERAL+ COMPRESS=DEFLATE QUOTA
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket write: A0003 SELECT "INBOX"
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket read (8) :* FLAGS (\Answered \Flagged \Deleted \Seen \Draft)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket write: A0004 STATUS "INBOX" (MESSAGES)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket read (2) :* STATUS INBOX (MESSAGES 0)
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: fetch_mail: Hay 0 mensajes para procesar
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Array
+(
+)
+
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: fetch_mail: closing connection
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket write: A0005 LOGOUT
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: socket read (2) :* BYE Logging out
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: Mail fetch complete, 0 emails
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: doing postie_session_end
+[12-Jul-2022 16:38:35 UTC] Postie [debug]: memory at end of email processing: 218076568
